@@ -231,7 +231,7 @@ version_ of each node.js version mentioned above! There is no guarantee
 that older minor node.js releases will always work with Juice Shop!
 Please make sure you stay up to date with your chosen version.
 
-### Troubleshooting Check
+### Troubleshooting
 
 [![Gitter](http://img.shields.io/badge/gitter-join%20chat-1dce73.svg)](https://gitter.im/bkimminich/juice-shop)
 
